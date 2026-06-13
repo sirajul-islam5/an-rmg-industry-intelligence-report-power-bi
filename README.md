@@ -147,17 +147,7 @@ This project includes a written **Analytics Report** (PDF) prepared alongside th
 - Actionable recommendations for each finding   
 - A concluding summary of the 3 core industry challenges   
 
-> The report is available in this repository as `Report.pdf`
-
----
-
-## 🚀 Future Plans
-
-- Add a dedicated Quality Control deep-dive page with factory-level defect rate comparisons   
-- Build a shipment delay root cause analysis visual   
-- Include a buyer country growth trend analysis (YoY)   
-- Add forecasting visuals for 2025 order projections   
-- Explore Deneb custom visuals for advanced storytelling   
+> The report is available in this repository as `Report.pdf`    
 
 ---
 
