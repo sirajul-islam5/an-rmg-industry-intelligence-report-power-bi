@@ -118,7 +118,6 @@ Spring records the highest order volume (246K), with a consistent decline throug
 
 - Microsoft Power BI Desktop   
 - Custom Dataset Design (975,440 rows)   
-- Data Modeling & Relationships   
 - DAX (calculated measures and KPIs)   
 - Multi-page Report Structure (3 pages)   
 - KPI Cards   
