@@ -50,6 +50,7 @@ This project uses a **custom-built dataset of 975,440 rows** — not sourced fro
 > demonstration purposes. All factory names, buyer patterns, and performance
 > metrics are simulated but based on realistic industry benchmarks.
 > No real company data was used.
+> Dataset: Custom-built, 9,75,440 rows. Not sourced from Kaggle or any public repository. Available upon request.   
 
 ---
 
