@@ -6,7 +6,7 @@ A self-driven data analytics project analyzing Bangladesh's Ready-Made Garments 
 
 ## 📌 Project Overview
 
-Bangladesh is the second largest garment exporter in the world, yet data-driven decision-making in the RMG sector remains limited. This project simulates a real-world analytics scenario to demonstrate how production, shipment, and quality data can drive operational clarity for industry stakeholders.
+Bangladesh is the second largest garment exporter in the world, yet data-driven decision-making in the RMG sector remains limited. This project simulates a real-world analytics scenario to demonstrate how production, shipment, and quality data can drive operational clarity for industry stakeholders. 
 
 The dashboard spans a full 3-year period (2022–2024) and is structured across 3 report pages — each answering a distinct set of business questions around performance, geography, and production.   
 
