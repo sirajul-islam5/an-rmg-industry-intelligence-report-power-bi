@@ -50,11 +50,7 @@ This project uses a **custom-built dataset of 975,440 rows** — not sourced fro
 `Order_Date` · `Shipment_Date` · `Delivery_Deadline` · `Quantity_Ordered` ·
 `Defect_Rate_%` · `Shipment_Status` · `Season` · `Division`
 
-> **Transparency Note:** This dataset was custom-generated for portfolio
-> demonstration purposes. All factory names, buyer patterns, and performance
-> metrics are simulated but based on realistic industry benchmarks.
-> No real company data was used.
-> Dataset: Custom-built, 9,75,440 rows. Not sourced from Kaggle or any public repository. Available upon request.The dataset could not be uploaded to GitHub due to its excessively large size.
+> **Transparency Note:** This dataset was custom-generated for portfolio demonstration purposes. All factory names, buyer patterns, and performance metrics are simulated but based on realistic industry benchmarks. No real company data was used. Dataset: Custom-built, 9,75,440 rows. Not sourced from Kaggle or any public repository. Available upon request.The dataset could not be uploaded to GitHub due to its excessively large size. The dataset didn't included — file size is 109 MB, exceeding GitHub's 25 MB limit.   
 
 
 ---
