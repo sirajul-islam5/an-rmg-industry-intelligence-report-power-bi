@@ -1,10 +1,10 @@
-# 🏭 An RMG Industry Intelligence Report — Power BI Project
+# An RMG Industry Intelligence Report — Power BI Project
 
 A data analytics project analyzing Bangladesh's Ready-Made Garments (RMG) industry across production performance, shipment efficiency, factory output, defect rates, and global buyer trends — built entirely in Microsoft Power BI on a custom-designed dataset of 975,440 rows.  
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Bangladesh is the second largest garment exporter in the world, yet data-driven decision-making in the RMG sector remains limited. This project simulates a real-world analytics scenario to demonstrate how production, shipment, and quality data can drive operational clarity for industry stakeholders. 
 
@@ -16,7 +16,7 @@ The dashboard spans a full 3-year period (2022–2024) and is structured across 
 
 ---
 
-## 📊 Key Metrics at a Glance
+## Key Metrics at a Glance
 
 | Metric | Value |
 |--------|-------|
@@ -33,7 +33,7 @@ The dashboard spans a full 3-year period (2022–2024) and is structured across 
 
 ---
 
-## 🗂️ Dataset Overview
+## Dataset Overview
 
 This project uses a **custom-built dataset of 975,440 rows** — not sourced from Kaggle or any public repository. The dataset was intentionally designed to reflect realistic RMG industry patterns and benchmarks.
 
@@ -92,7 +92,7 @@ A factory and product-level analysis of production output, quality control, and 
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 **1. Delivery Reliability is a Critical Gap**
 Only 64.88% of shipments are on time — meaning roughly 35 out of every 100 orders face delays. For a globally competitive industry, this represents a serious operational and buyer retention risk.   
@@ -111,7 +111,7 @@ Spring records the highest order volume (246K), with a consistent decline throug
 
 ---
 
-## 🛠️ Tools & Features Used
+## Tools & Features Used
 
 - Microsoft Power BI Desktop   
 - Custom Dataset Design (975,440 rows)   
@@ -127,7 +127,7 @@ Spring records the highest order volume (246K), with a consistent decline throug
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - How to design a domain-specific dataset from scratch that reflects realistic industry patterns   
 - Structuring a multi-page Power BI report around clear business questions rather than just visual display   
@@ -138,7 +138,7 @@ Spring records the highest order volume (246K), with a consistent decline throug
 
 ---
 
-## 📄 Analytics Report
+## Analytics Report
 
 This project includes a written **Analytics Report** (PDF) prepared alongside the dashboard. The report covers:
 
@@ -152,21 +152,19 @@ This project includes a written **Analytics Report** (PDF) prepared alongside th
 
 ---
 
-## 👤 Author
+## Author
 
 **Md. Sirajul Islam**   
-📎 [linkedin.com/in/md-sirajul-islam57](https://linkedin.com/in/md-sirajul-islam57)   
-🐙 [github.com/sirajul-islam5](https://github.com/sirajul-islam5)   
+- [linkedin.com/in/md-sirajul-islam57](https://linkedin.com/in/md-sirajul-islam57)   
+- [github.com/sirajul-islam5](https://github.com/sirajul-islam5)   
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the
 [MIT License](LICENSE).
 
 ---
 
-> *This is a self-driven project created for learning and
-> portfolio purposes. The dataset is custom-built and does
-> not represent any real company or organization.*
+> *This is a self-driven project created for learning purpose. The dataset is custom-built and does not represent any real company or organization.*  
