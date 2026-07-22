@@ -55,7 +55,7 @@ This project uses a **custom-built dataset of 975,440 rows** — not sourced fro
 
 ---
 
-## 📑 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Performance Overview (2022–2024)
 
