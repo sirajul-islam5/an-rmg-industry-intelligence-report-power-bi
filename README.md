@@ -1,6 +1,6 @@
 # An RMG Industry Intelligence Report — Power BI Project
 
-A data analytics project analyzing Bangladesh's Ready-Made Garments (RMG) industry across production performance, shipment efficiency, factory output, defect rates, and global buyer trends — built entirely in Microsoft Power BI on a custom-designed dataset of 975,440 rows.  
+A data analytics project analyzing Bangladesh's Ready-Made Garments (RMG) industry across production performance, shipment efficiency, factory output, defect rates, and global buyer trends — built entirely in Microsoft Power BI on a custom-designed dataset of 975,440 rows.   
 
 ---
 
