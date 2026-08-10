@@ -134,21 +134,7 @@ Spring records the highest order volume (246K), with a consistent decline throug
 - Using DAX to build meaningful KPI measures from raw data   
 - Thinking analytically about what the data means for real stakeholders — not just what it shows   
 - Translating data findings into actionable recommendations   
-- Communicating insights through a written analytics report alongside the dashboard   
-
----
-
-## Analytics Report
-
-This project includes a written **Analytics Report** (PDF) prepared alongside the dashboard. The report covers:
-
-- Project context and objective     
-- Dataset overview and transparency note   
-- Section-by-section findings for all 3 dashboard pages   
-- Actionable recommendations for each finding   
-- A concluding summary of the 3 core industry challenges   
-
-> The report is available in this repository as `Report.pdf`    
+- Communicating insights through a written analytics report alongside the dashboard      
 
 ---
 
