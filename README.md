@@ -153,4 +153,4 @@ This project is open source and available under the
 
 ---
 
-> *This is a self-driven project created for learning purpose. The dataset is custom-built and does not represent any real company or organization.*  
+> *This is a guided project created for learning purpose. The dataset is custom-built and does not represent any real company or organization.*  
